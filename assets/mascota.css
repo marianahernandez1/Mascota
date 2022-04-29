@@ -1,0 +1,59 @@
+body{
+   background-color: lightcoral;
+}
+
+.informacion{
+    padding: 20px;
+    border: 5px dotted purple;
+    margin: 15px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+
+#facebook{
+    background-color: rgb(235, 235, 104);
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    border-bottom: 7px solid yellow;
+    border-right: 7px solid yellow;
+}
+
+#twitter{
+    background-color: blueviolet;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    border-bottom: 7px solid rgb(161, 22, 161);
+    border-right: 7px solid rgb(161, 22, 161);
+}
+
+#instagram{
+    background-color: rgb(4, 117, 209);
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    border-bottom: 7px solid blue;
+    border-right: 7px solid blue;
+}
+
+.imagen{
+    text-align: center;
+    border: 5px solid purple;
+    width: 400;
+    height: 450;
+}
+
+.redessociales{
+    text-align: center;
+}
+
+.imagen4{
+    text-align: center;
+}
